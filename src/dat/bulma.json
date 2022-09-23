@@ -1,0 +1,17 @@
+{
+    "name": "Bulma",
+    "currentversion": "0.9.4",
+    "author": "Bulma",
+    "website": "https://bulma.10/",
+    "description": "Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.",
+    "versions": {
+        "0.9.4": {
+            "default": "bulma-0.9.4.min.css",
+            "rtl": "bulma-0.9.4.rtl.min.css"
+        },
+        "0.9.3": {
+            "default": "bulma-0.9.3.min.css",
+            "rtl": "bulma-0.9.3.rtl.min.css"
+        }
+    }
+}

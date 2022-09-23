@@ -1,0 +1,6 @@
+File format: name-version.min.css
+name-version.ext.min.css
+
+
+E.g. jquery-3.6.1.min.js
+E.g. jquery-3.6.1.slim.min.js

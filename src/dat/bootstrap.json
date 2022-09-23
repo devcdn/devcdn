@@ -1,0 +1,17 @@
+{
+    "name": "Bootstrap",
+    "currentversion": "5.2.1",
+    "author": "Bootstrap",
+    "website": "https://getbootstrap.com/",
+    "description": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.",
+    "versions": {
+        "5.2.1": {
+            "css": "bootstrap-5.2.1.min.css",
+            "js": "bootstrap-5.2.1.min.js"
+        },
+        "5.2.1-rtl": {
+            "css": "bootstrap-5.2.1.rtl.min.css",
+            "js": "bootstrap-5.2.1.min.js"
+        }
+    }
+}
