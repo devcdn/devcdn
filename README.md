@@ -1,3 +1,5 @@
+| :warning: devcdn was available before on devcdn.herokuapp.com, however Heroku is no longer free, so devcdn <ins>will no longer be available through devcdn.herokuapp.com</ins>. We are looking for an alternative, but for now, devcdn will pause operations. Pull requests will still be reviewed, so feel free to add your library <del>when</del> <ins>if</ins> we are back online. We apologize for the inconvenience. - devcdn Developers
+| ---
 # devcdn
 ### a cdn for developers, written in php and powered by json.
 devcdn is a simple yet powerful cdn to deliver all your stylesheets and script to you!
